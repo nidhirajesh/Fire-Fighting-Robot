@@ -12,6 +12,8 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 
 ⚙️ Components Used
 
+---
+
 - Arduino UNO R3
 - L293D Motor Driver Shield
 - Flame Sensors
@@ -24,6 +26,8 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 
 🚀 Working Principle
 
+---
+
 1. Flame sensors detect the presence and direction of fire.
 2. The Arduino processes the sensor readings.
 3. The robot moves towards the fire source.
@@ -32,6 +36,8 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 6. The SIM800L module sends an SMS alert and makes an emergency call.
 
 ✨ Key Features
+
+---
 
 - Automatic fire detection
 - Fire direction identification
@@ -42,12 +48,16 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 
 🎯 Applications
 
+---
+
 - Homes and buildings
 - Industrial environments
 - Laboratories
 - Fire-prone areas
 
 👨‍💻 Project Details
+
+---
 
 Project: Arduino-Based Fire Fighting Robot
 
