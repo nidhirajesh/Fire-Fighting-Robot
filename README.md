@@ -4,6 +4,8 @@
 
 📌 Project Overview
 
+---
+
 The Fire Fighting Robot is an Arduino-based automated robotic system designed to detect and extinguish fire with minimal human intervention. It uses flame sensors to identify the direction of fire and moves towards the detected source. Once the fire is detected, a water pump is activated to spray water and extinguish the flames.
 
 The robot also integrates a SIM800L GSM module to send SMS alerts and make emergency calls, providing real-time notifications.
