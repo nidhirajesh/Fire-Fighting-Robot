@@ -1,8 +1,8 @@
-🔥 #Arduino-Based Fire Fighting Robot
+# 🔥 Arduino-Based Fire Fighting Robot
 
 ---
 
-#📌 Project Overview
+# 📌 Project Overview
 
 ---
 
@@ -10,7 +10,7 @@ The Fire Fighting Robot is an Arduino-based automated robotic system designed to
 
 The robot also integrates a SIM800L GSM module to send SMS alerts and make emergency calls, providing real-time notifications.
 
-#⚙️ Components Used
+# ⚙️ Components Used
 
 ---
 
@@ -24,7 +24,7 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 - DC Motors
 - Water Pump
 
-#🚀 Working Principle
+# 🚀 Working Principle
 
 ---
 
@@ -35,7 +35,7 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 5. The servo motor helps direct the water spray.
 6. The SIM800L module sends an SMS alert and makes an emergency call.
 
-#✨ Key Features
+# ✨ Key Features
 
 ---
 
@@ -46,7 +46,7 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 - GSM-based SMS and call alerts
 - Reduced human intervention during fire emergencies
 
-#🎯 Applications
+# 🎯 Applications
 
 ---
 
@@ -55,7 +55,7 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 - Laboratories
 - Fire-prone areas
 
-#👨‍💻 Project Details
+# 👨‍💻 Project Details
 
 ---
 
